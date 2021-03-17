@@ -25,12 +25,12 @@ public class TwitterProducer {
 
     Logger logger = LoggerFactory.getLogger(TwitterProducer.class);
 
-    String consumerKey = "ZN3iMSMjMNeCKbEP7hFOjP5VE";
-    String consumerSecret = "h5ya5ZpOrWsaDuY8IqnAnODCECJ6SoQIL98xaqJXTsfiRfnc8W";
+    String consumerKey = "";
+    String consumerSecret = "";
 
-    String token = "1371520253218414595-zwA6cuskGlXl2kNKsYk0Hd2obAMZYs";
+    String token = "";
 
-    String secret = "nPjsEcXJaI2dcMdW6XkMZsWBq9N4IfJUY1eXux14zdhit";
+    String secret = "";
 
 //    List<String> terms = Lists.newArrayList("COVID19");
 

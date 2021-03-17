@@ -49,9 +49,9 @@ public class ElasticSearchConsumer {
         //https://nicswx968i:vqoyig88e5@kafka-course-5926523620.us-east-1.bonsaisearch.net:443
 
         // replace with your own credentials
-        String hostname = "kafka-course-5926523620.us-east-1.bonsaisearch.net"; // localhost or bonsai url
-        String username = "nicswx968i"; // needed only for bonsai
-        String password = "vqoyig88e5"; // needed only for bonsai
+        String hostname = ""; // localhost or bonsai url
+        String username = ""; // needed only for bonsai
+        String password = ""; // needed only for bonsai
 
         // credentials provider help supply username and password
         final CredentialsProvider credentialsProvider = new BasicCredentialsProvider();
